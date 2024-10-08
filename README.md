@@ -1,5 +1,8 @@
 # Strategic Design
 
+## Link til video:
+- https://www.youtube.com/watch?v=ColtlF4bKyA
+
 ## Bounded Contexts
 We will divide the system into the following bounded contexts:
 
