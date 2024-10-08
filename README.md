@@ -1,5 +1,3 @@
-# SI-OLA3
-
 # Strategic Design
 
 ## Bounded Contexts
